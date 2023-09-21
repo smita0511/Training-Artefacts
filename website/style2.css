@@ -1,0 +1,17 @@
+.cantainer{
+    background-color: #130f40;
+    color: rgb(237, 237, 243);
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px;
+    border-radius: 5px;
+}
+.c1{
+    background-color: paleturquoise;
+    color: rgb(65, 65, 163);
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px;
+    padding: 5px;
+}
+
