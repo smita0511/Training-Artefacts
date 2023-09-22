@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6294-3201
+
+ Directory of C:\Users\smitas\Desktop\training
+
+22-09-2023  10:17    <DIR>          .
+22-09-2023  10:17    <DIR>          ..
+21-09-2023  15:15            21,473 Book1 .xlsx
+21-09-2023  12:35               391 index.html
+22-09-2023  10:17                 0 smi.txt
+21-09-2023  11:52                11 smita.txt
+22-09-2023  10:05    <DIR>          Training-Artefacts
+21-09-2023  15:38    <DIR>          website
+               4 File(s)         21,875 bytes
+               4 Dir(s)  237,614,874,624 bytes free
